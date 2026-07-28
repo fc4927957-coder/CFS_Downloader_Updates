@@ -1,5 +1,5 @@
 {
-  "version": "2.2",
-  "download_url": "https://github.com/fc4927957-coder/CFS_Downloader_Updates/releases/download/v2.2/CFS.Creator.Hub.exe",
-  "changelog": "v2.2 Release Notes:\n1. Fixed laptop small screen scaling & added sidebar scrollbar.\n2. Clean video downloads without extra .json & .description files.\n3. Enhanced Instagram & Facebook Reel download performance."
+  "version": "2.5",
+  "download_url": "https://github.com/fc4927957-coder/CFS_Downloader_Updates/releases/download/v2.5/CFS.Creator.Hub.exe",
+  "changelog": "1. Fixed channel & playlist multi-video expansion engine.\n2. Added custom Netscape cookies.txt file import feature.\n3. Cleaned UI design and optimized Instagram & Facebook extraction."
 }
